@@ -10,7 +10,7 @@ Hi! I'm Frank Kendemah, a passionate software engineer with a Master's degree in
 
 
 ## Connect with me:
-- Email: [fajoseph121@hotmail.com](mailto:fajoseph121@hotmail.com)
+- Email: [fajoseph121@hotmail.com](mailto:fajoseph121@hotmail.com), [joseph74790@gmail.com](mailto:joseph74790@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/frank-kendemah)
 - GitHub: [Manasseh19k](https://github.com/Manasseh19k)
 
